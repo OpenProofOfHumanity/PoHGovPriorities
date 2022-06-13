@@ -1,6 +1,6 @@
 {
     "org": "Proof of Humanity en Español",
-    "repo": "PohGovPriorities",
+    "repo": "PoHGovPriorities",
     "tokenAddress": "0x1c8EEd9cD4Fde67fc0f5171A9c684fBc7501170D",
     "votingMethod": "QUADRATIC",
     "chainId": 1
